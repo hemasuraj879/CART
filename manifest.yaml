@@ -61,7 +61,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: cart
-  namespace: roboshop
+  namespace: suraj
 
 data:
   REDIS_HOST: "redis"
